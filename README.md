@@ -198,7 +198,7 @@ Example command:
 --->
 
 ### Deployment
-This project is deployed at github pages you can find it at: 
+This project is deployed at github pages you can find it at: https://helina42.github.io/Capstone-Conference-Project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
