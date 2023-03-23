@@ -93,7 +93,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]
+- [Live Demo Link](https://helina42.github.io/Capstone-Conference-Project/home.html)
 - [Loom Video link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
