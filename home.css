@@ -383,7 +383,6 @@ body > section > section.featured > div:nth-child(2) {
     margin-right: 16.5vw;
   }
 
-
   .showcontent a {
     text-decoration: none;
     color: #868686;
@@ -711,8 +710,6 @@ body > section > section.featured > div:nth-child(2) {
     position: relative;
     width: 40%;
   }
-
-
 
   .showcontent > div {
     display: flex;
