@@ -410,7 +410,7 @@ div.abt-img {
 
   .footer {
     display: flex;
-    margin: 0 18px;
+    margin: 0;
     padding: 42px;
     gap: 3%;
     justify-content: center;
