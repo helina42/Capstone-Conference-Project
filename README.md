@@ -253,7 +253,7 @@ If you like this project kindly give me a star to show your support!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank Microverse for giving me the chance to test myself during this project!.
-> I would like to give a big thank for Cindy Shin who is the designer this conference page which I was inspired to do.
+> I would like to give a big thank for [Cindy Shin](./https://www.behance.net/adagio07) who is the designer this conference page which I was inspired to do.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
