@@ -39,16 +39,9 @@
 
 # 📖 [Capstone Conferene Page] <a name="about-project"></a>
 
-> This project for learning and master all of the tools and best practices you learned about Linters, Git & GitHub flow and Documenting repo in a professional way. Then through submmission, micronauts understand the workflow of how our future work will be. 
-This project include adding files, using linters, adding specific programs to projects and making an understandable descriptive page. 
-This project mainly includes creating a Protolio set up for the size of a mobile.It includes creating a top bar which has a logo and an option like menu that are resposive to a click.
-It also includes a headline section where the information about the persons protfolio and other responsive icons.
-Use media queries in your CSS file to make your desktop version look like the template you selected (Desktop: >=768px).
-In order to lay out the elements on the page you should use Grid and Flexbox.
-You don't need to implement any functionality that requires JavaScript.
-You must replicate the design as much as possible (e.g., font, colors, images, text, margins) using the info from the Figma templates.
+> This is a page that shows details of a conference page including the about page, details of the speakers, partners and sponsers.
 
-**[apstone Conferene Page]** is an inital design project for a Conference page.
+**[Capstone Conferene Page]** is an inital design project for a Conference page.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,7 +50,7 @@ You must replicate the design as much as possible (e.g., font, colors, images, t
 >  The tech stack was built with and include:
 - HTML
 - CSS
-- npm
+- Javascript
 
 <details>
   <summary>Client</summary>
@@ -79,24 +72,18 @@ You must replicate the design as much as possible (e.g., font, colors, images, t
 ### Key Features <a name="key-features"></a>
 
 > Key features of the application.
-Make sure that there are no linter errors.
-Make sure that you used correct (GitHub flow).
-Make sure that you documented your work.
-Responsive deisign of a portfolio.
-Usage of flexbox
-Responsive Contact form 
-Responsive deisign of a Desktop portfolio
-Accessibility interaction modified
-
 
 - **[No linter errors]**
 - **[Correct (GitHub flow)]**
 - **[Proper documented work]**
 - **[Responsive deisign of a Confence page]**
-- **[Usage of flexbox]**
-- **[Responsive Contact form]**
-- **[Responsive deisign of a Desktop and mobile Conference page]**
-- **[Accessibility interaction modified]**
+- **[Displays the Home page for Confernce Page]**
+- **[Displays the About page for Confernce Page]**
+- **[Displays Mobile Menu]**
+- **[Displays Speakers List with more and less button]**
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -106,8 +93,10 @@ Accessibility interaction modified
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]
-- [Loom Video link]
+
+- [Live Demo Link](https://helina42.github.io/Capstone-Conference-Project/home.html)
+- [Loom Video link](https://www.loom.com/share/bdad9dc75bb747f1943df8a48ac1154a)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,14 +138,10 @@ Example command:
 -Add descriptive README file to your project - please use this template but remember to customize it to your project.<br>
 -Add 3 files (each one in a separate commit):<br>
         -A .html file.<br>
-        -A .css file..<br>        
--Make sure that the last file is actually ignored by git and is not present in your GitHub repository.<br>
--Build mobile and desktop website using the template from figma.
--The website should be responsive, following these breakpoints:
-  -Minimum mobile screen size should be 375px
-  -Minimum desktop screen size should be 768px
--Use responsive values in your CSS rules, like percentages (i.e. width: 80%), instead of pixels
--Design for Desktop portfolio is added.
+        -A .css file..<br>
+        -A .js file..<br>  
+-Clone this repository to your desired folder:
+
 
 
 <!--
@@ -182,11 +167,11 @@ Example command:
 --->
 
 ### Usage
-
-To run the project, execute the following command:
+<!--
+Example command:
 ```sh
-  PS C:\Users\helin\OneDrive\Documents\GitHub\Portfolio setup and mobile>
 ```
+--->
 
 <!--
 Example command:
@@ -215,7 +200,7 @@ Example command:
 --->
 
 ### Deployment
-This project is deployed at github pages you can find it at: https://helina42.github.io/Portfolio/
+This project is deployed at github pages you can find it at: https://helina42.github.io/Capstone-Conference-Project/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,12 +222,10 @@ This project is deployed at github pages you can find it at: https://helina42.gi
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [Evaluate accessibility] **[new_feature_1]**
-- [Mobile menu ] **[new_feature_2]**
-- [Details modal ] **[new_feature_3]**
-- [Validate contact form ] **[new_feature_4]**
-- [Preserve data in the browser] **[new_feature_5]**
+  
+ 
+- **[More pages will be created and linked to the home page]**
+- **[More Content will be personalized]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -272,6 +255,7 @@ If you like this project kindly give me a star to show your support!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank Microverse for giving me the chance to test myself during this project!.
+> I would like to give a big thank for [Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) who is the designer this conference page which I was inspired to do.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
