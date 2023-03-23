@@ -628,7 +628,7 @@ body > section > section.featured > div:nth-child(2) {
 
   .footer {
     display: flex;
-    margin: 40px 18px;
+    margin: 0 18px;
     padding: 42px;
     gap: 3%;
     justify-content: center;

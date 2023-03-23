@@ -128,9 +128,10 @@ body > section > div > a:nth-child(1) > img {
 }
 
 .footer {
-  display: flex;
-  margin: 40px 18px;
-  gap: 15%;
+    display: flex;
+    margin: 0px 18px;
+    gap: 15%;
+    padding: 20px;
 }
 
 .footer-des {
@@ -409,7 +410,7 @@ div.abt-img {
 
   .footer {
     display: flex;
-    margin: 40px 18px;
+    margin: 0 18px;
     padding: 42px;
     gap: 3%;
     justify-content: center;
